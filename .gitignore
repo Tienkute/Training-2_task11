@@ -1,0 +1,32 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.venv_test/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# btap datasets
+btap_numpy_pandas/data/
